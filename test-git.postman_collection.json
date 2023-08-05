@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "4d0484b5-1d27-414c-9701-25b6e4e3cc7b",
+		"name": "test-git",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "19695691"
+	},
+	"item": [
+		{
+			"name": "test",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
